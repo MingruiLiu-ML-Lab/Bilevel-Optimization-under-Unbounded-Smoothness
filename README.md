@@ -13,7 +13,7 @@ Bilevel optimization is an important formulation for many machine learning probl
 ```
     cd data_cleaning && python main.py --inner_update_lr 5e-2  --outer_update_lr 5e-2
 ```
-### Run BO-REP for hyperparam-optimization:
+### Run BO-REP for hyperparameter-optimization:
 ```
     cd hyperparam_opt && python main.py --inner_update_lr 2e-3  --outer_update_lr 1e-4
    
