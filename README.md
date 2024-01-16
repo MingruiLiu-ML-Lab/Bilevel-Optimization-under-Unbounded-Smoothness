@@ -26,5 +26,5 @@ hao2024bilevel,
 title={Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis},
 author={Jie Hao, Xiaochuan Gong, Mingrui Liu},
 booktitle={Twelfth International Conference on Learning Representations},
-year={2023}
+year={2024}
 }'''
