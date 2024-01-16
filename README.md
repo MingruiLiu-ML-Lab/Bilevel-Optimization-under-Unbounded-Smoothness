@@ -21,10 +21,10 @@ Bilevel optimization is an important formulation for many machine learning probl
 ### Citation
 If you found this repository helpful, please cite our paper:
 ```
-@inproceedings{
-hao2024bilevel,
+@inproceedings{hao2024bilevel,
 title={Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis},
 author={Jie Hao, Xiaochuan Gong, Mingrui Liu},
 booktitle={Twelfth International Conference on Learning Representations},
 year={2024}
-}'''
+}
+'''
