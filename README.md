@@ -1,5 +1,10 @@
-This is code for paper ["Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis"](https://openreview.net/pdf?id=LqRGsGWOTX)
-Jie Hao, Xiaochuan Gong, Mingrui Liu, 12th International Conference on Learning Representations (ICLR 2024).
+# Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis
+
+This repository contains PyTorch codes for the experiments on deep learning in the paper:
+
+**["Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis"](https://openreview.net/pdf?id=LqRGsGWOTX)**
+Jie Hao, Xiaochuan Gong, Mingrui Liu.
+12th International Conference on Learning Representations (ICLR 2024). Spotlight.
 
 ### Abstract
 
